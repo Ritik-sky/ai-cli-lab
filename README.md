@@ -1,4 +1,4 @@
-# AI CLI Lab
+# AI CLI Lab    
 
 A repository for experimenting with AI-powered CLI workflows, automation scripts, and repetitive developer tasks.
 
